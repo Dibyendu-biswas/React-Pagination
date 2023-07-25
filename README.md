@@ -1,4 +1,4 @@
-<h1>Project -React-Project</h1>
+<h1>Project -React-Pagination-Project</h1>
 <img src='\src\assets\img2.png'/>
 
 <h2>Project Details :</h2>
